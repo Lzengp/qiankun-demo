@@ -1,4 +1,4 @@
-# qiankun-bigass-app
+# qiankun-demo
 
 一个使用 [乾坤](https://qiankun.umijs.org/zh) 的大应用例子。
 
