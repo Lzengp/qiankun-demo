@@ -22,5 +22,5 @@ yarn start:baidu   # 开启子应用
   
 ### 子应用单独访问
 
-* taobao: 子应用，访问: https://localhost:7101
-* baidu: 子应用，访问: https://localhost:7102
+* taobao: 子应用，访问: http://localhost:7101
+* baidu: 子应用，访问: http://localhost:7102
