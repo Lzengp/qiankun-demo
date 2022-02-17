@@ -5,7 +5,7 @@
 ## 怎么用
 
 ```shell
-yarn install:main # 安主应用
+yarn install:main # 安装主应用
 yarn install:taobao # 安装子应用
 yarn install:baidu # 安装子应用
 
