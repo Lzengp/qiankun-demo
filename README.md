@@ -16,9 +16,9 @@ yarn start:baidu   # 开启子应用
 
 ## 主应用访问
 
-* main: 主应用，访问: https://localhost:7099
-* taobao: 主应用，访问: https://localhost:7099/taobao
-* baidu: 主应用，访问: https://localhost:7099/baidu
+* main: 主应用，访问: http://localhost:7099
+* taobao: 主应用，访问: http://localhost:7099/taobao
+* baidu: 主应用，访问: http://localhost:7099/baidu
   
 ### 子应用单独访问
 
